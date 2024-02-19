@@ -73,7 +73,7 @@ body {
   filter: invert();
 }
 
-#menu{
+#menu {
   display: none;
 }
 
@@ -298,7 +298,7 @@ body {
   transform: translateX(-50%);
   top: 10%;
 }
-.left5 > h2{
+.left5 > h2 {
   display: none;
 }
 .right5 {
